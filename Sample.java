@@ -1,8 +1,7 @@
-package com.Sample.MavenApplication2;
-
 import java.util.*;
 
-class App
+ 
+class Sample
 {
      
     static String generateCaptcha(int n)
